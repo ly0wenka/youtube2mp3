@@ -8,6 +8,7 @@ obj/
 .vscode/
 
 # mine
+submodules/
 
 # Common node modules locations
 /node_modules
